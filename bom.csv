@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"D1",1,"Red LED"
+"D2",1,"Yellow LED"
+"D3",1,"Green LED"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"R1, R2, R3",3,"200 Ω Resistor"
+"M1, M3",2," DC Motor"
+"U2",1," H-bridge Motor Driver"
+"S1",1," Pushbutton"
